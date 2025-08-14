@@ -1,0 +1,87 @@
+{
+  "ervolt": {
+    "nombre": "E&RVOLT",
+    "info": "Suplemento natural para energía y enfoque. Contiene maca, guaraná, noni, chontaduro, avena y vitaminas. Ideal para personas activas o con fatiga.",
+    "beneficios": [
+      "Aumenta la energía",
+      "Mejora la concentración",
+      "Equilibra hormonas",
+      "Fortalece defensas",
+      "Reduce el estrés"
+    ],
+    "modo": "Toma una cucharada al día con agua o en batido.",
+    "ingredientes": "Maca, guaraná, noni, chontaduro, borojó, vitaminas B, zinc y calcio.",
+    "seguridad": "100% natural. Registro INVIMA aprobado.",
+    "presentacion": "Bolsa de 450g, rinde 30 porciones.",
+    "precio": "Disponible por 127.000.",
+    "envios": "Envíos a todo el país.",
+    "extra": {
+      "energía": "Aumenta energía sin cafeína artificial.",
+      "compra": "Solicita tu pedido enviando tu ciudad y forma de pago."
+    },
+    "imagen": "https://example.com/img/ervolt.jpg"
+  },
+  "liberfut": {
+    "nombre": "LIBERFUT",
+    "info": "Refuerza defensas y mejora salud celular. Contiene calostro, huevo liofilizado, chía y amalaki.",
+    "beneficios": [
+      "Aumenta inmunidad",
+      "Aumenta energía",
+      "Ayuda a regenerar células",
+      "Apoya la salud hepática"
+    ],
+    "modo": "Toma 1 cucharada al día. Mezcla con líquido.",
+    "ingredientes": "Calostro, huevo de pato, amalaki, chía, quinua, vitamina C.",
+    "seguridad": "Registro INVIMA. Natural y seguro.",
+    "presentacion": "Bolsa de 450g. Rinde para 30 porciones.",
+    "precio": "Incluye descuento del 20%.",
+    "envios": "Envíos nacionales disponibles.",
+    "extra": {
+      "defensas": "Fortalece sistema inmune naturalmente.",
+      "compra": "Pide enviando ciudad y forma de pago."
+    },
+    "imagen": "https://example.com/img/liberfut.jpg"
+  },
+  "sysadox": {
+    "nombre": "SYSADOX",
+    "info": "Suplemento articular con colágeno, arándano, magnesio, biotina y vitaminas. Reduce dolor y mejora movilidad.",
+    "beneficios": [
+      "Alivia articulaciones",
+      "Regenera colágeno",
+      "Fortalece huesos",
+      "Fortalece piel"
+    ],
+    "modo": "Tomar una cucharada diaria con agua o jugo.",
+    "ingredientes": "Colágeno hidrolizado, arándano, magnesio, biotina, calcio.",
+    "seguridad": "Producto con registro INVIMA.",
+    "presentacion": "Bolsa de 450 g. 30 porciones.",
+    "precio": "Descuento del 20% disponible.",
+    "envios": "Cobertura nacional.",
+    "extra": {
+      "articulaciones": "Ayuda en casos de dolor, artritis y rigidez.",
+      "compra": "Haz tu pedido enviando ciudad y medio de pago."
+    },
+    "imagen": "https://example.com/img/sysadox.jpg"
+  },
+  "vita": {
+    "nombre": "VITA SOLUTION",
+    "info": "Mejora la salud visual y celular. Contiene luteína, zeaxantina, clorofila y aloe vera.",
+    "beneficios": [
+      "Protege la visión",
+      "Reduce resequedad ocular",
+      "Mejora la piel",
+      "Es antioxidante"
+    ],
+    "modo": "Tomar una cucharada al día en la mañana.",
+    "ingredientes": "Luteína, zeaxantina, aloe vera, colágeno, vitamina C.",
+    "seguridad": "Registro INVIMA. Apto para uso diario.",
+    "presentacion": "Bolsa de 450g. Rinde 30 porciones.",
+    "precio": "Descuento del 20% activo.",
+    "envios": "Entregas en todo el país.",
+    "extra": {
+      "vision": "Ayuda a personas con fatiga ocular o expuestas a pantallas.",
+      "compra": "Solicita tu pedido enviando ciudad y forma de pago."
+    },
+    "imagen": "https://example.com/img/vita.jpg"
+  }
+}
